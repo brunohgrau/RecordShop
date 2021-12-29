@@ -24,5 +24,6 @@ This project is a fullstack Record Shop. It was created with the MERN stack.
 
 - User and Admin User can login and register
 - User can add recrods to cart and  make records order
+- User can update user profile
 - Admin User can CRUD Records and Users 
  
